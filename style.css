@@ -111,7 +111,7 @@ body{
         align-items: center;
     }
     .card__photo{
-        background-image: url(/img/image-product-mobile.jpg);
+        background-image: url(img/image-product-mobile.jpg);
     }
 }
 @media (max-width: 540px){
